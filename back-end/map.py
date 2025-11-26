@@ -1,7 +1,7 @@
 """
-version 1.0
+version 1.1
 
-@Date: 09/18/2025
+@Date: 11/26/2025
 """
 import folium
 import csv
