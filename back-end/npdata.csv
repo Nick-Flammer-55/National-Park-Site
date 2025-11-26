@@ -1,64 +1,63 @@
-Name,State/Territory,Abbreviation,Latitude,Longitude,Year_Established
-Acadia National Park,Maine,ME,44.35,-68.21,1919
-American Samoa National Park,American Samoa,AS,-14.25,-170.68,1988
-Arches National Park,Utah,UT,38.68,-109.57,1971
-Badlands National Park,South Dakota,SD,43.75,-102.5,1978
-Big Bend National Park,Texas,TX,29.25,-103.25,1944
-Biscayne National Park,Florida,FL,25.65,-80.08,1980
-Black Canyon of the Gunnison National Park,Colorado,CO,38.57,-107.72,1999
-Bryce Canyon National Park,Utah,UT,37.57,-112.18,1928
-Canyonlands National Park,Utah,UT,38.20,-109.93,1964
-Capitol Reef National Park,Utah,UT,38.20,-111.17,1971
-Carlsbad Caverns National Park,New Mexico,NM,32.17,-104.44,1930
-Channel Islands National Park,California,CA,34.01,-119.42,1980
-Congaree National Park,South Carolina,SC,33.78,-80.78,2003
-Crater Lake National Park,Oregon,OR,42.94,-122.10,1902
-Cuyahoga Valley National Park,Ohio,OH,41.24,-81.55,2000
-Death Valley National Park,California/Nevada,CA/NV,36.24,-116.82,1994
-Denali National Park,Alaska,AK,63.33,-150.50,1917
-Dry Tortugas National Park,Florida,FL,24.63,-82.87,1992
-Everglades National Park,Florida,FL,25.32,-80.93,1934
-Gates of the Arctic National Park,Alaska,AK,67.78,-153.34,1980
-Gateway Arch National Park,Missouri,MO,38.6247,-90.1848,2018
-Glacier National Park,Montana,MT,48.80,-113.78,1910
-Glacier Bay National Park,Alaska,AK,58.53,-137.00,1980
-Grand Canyon National Park,Arizona,AZ,36.11,-112.11,1919
-Grand Teton National Park,Wyoming,WY,43.73,-110.80,1929
-Great Basin National Park,Nevada,NV,38.98,-114.30,1986
-Great Sand Dunes National Park,Colorado,CO,37.79,-105.59,2004
-Great Smoky Mountains National Park,North Carolina/Tennessee,NC/TN,35.68,-83.53,1934
-Guadalupe Mountains National Park,Texas,TX,31.92,-104.87,1972
-Haleakalā National Park,Hawaii,HI,20.72,-156.17,1916
-Hawai'i Volcanoes National Park,Hawaii,HI,19.42,-155.29,1916
-Hot Springs National Park,Arkansas,AR,34.51,-93.05,1921
-Indiana Dunes National Park,Indiana,IN,41.65,-87.05,2019
-Isle Royale National Park,Michigan,MI,48.17,-88.55,1940
-Joshua Tree National Park,California,CA,33.87,-115.90,1994
-Katmai National Park,Alaska,AK,58.50,-155.00,1980
-Kenai Fjords National Park,Alaska,AK,59.92,-149.65,1980
-Kings Canyon National Park,California,CA,36.80,-118.55,1940
-Kobuk Valley National Park,Alaska,AK,67.55,-159.27,1980
-Lake Clark National Park,Alaska,AK,60.97,-153.42,1980
-Lassen Volcanic National Park,California,CA,40.49,-121.50,1916
-Mammoth Cave National Park,Kentucky,KY,37.18,-86.10,1941
-Mesa Verde National Park,Colorado,CO,37.23,-108.46,1906
-Mount Rainier National Park,Washington,WA,46.85,-121.75,1899
-New River Gorge National Park and Preserve,West Virginia,WV,38.07,-81.08,2020
-North Cascades National Park,Washington,WA,48.70,-121.21,1968
-Olympic National Park,Washington,WA,47.97,-123.50,1938
-Petrified Forest National Park,Arizona,AZ,35.07,-109.78,1962
-Pinnacles National Park,California,CA,36.49,-121.20,2013
-Redwood National Park,California,CA,41.30,-124.00,1968
-Rocky Mountain National Park,Colorado,CO,40.34,-105.69,1915
-Saguaro National Park,Arizona,AZ,32.25,-110.50,1994
-Sequoia National Park,California,CA,36.43,-118.68,1890
-Shenandoah National Park,Virginia,VA,38.53,-78.35,1935
-Theodore Roosevelt National Park,North Dakota,ND,46.90,-103.45,1978
-Virgin Islands National Park,Virgin Islands,VI,18.34,-64.82,1956
-Voyageurs National Park,Minnesota,MN,48.52,-92.88,1975
-White Sands National Park,New Mexico,NM,32.78,-106.17,2019
-Wind Cave National Park,South Dakota,SD,43.57,-103.50,1903
-Wrangell-St. Elias National Park,Alaska,AK,61.00,-142.00,1980
-Yellowstone National Park,Wyoming/Montana/Idaho,WY/MT/ID,44.60,-110.50,1872
-Yosemite National Park,California,CA,37.87,-119.54,1890
-Zion National Park,Utah,UT,37.30,-113.05,1919
+Name,State/Territory,Abbreviation,Latitude,Longitude,Year_Established,NPS_Index
+Acadia National Park,Maine,ME,44.35,-68.21,1919,acad
+American Samoa National Park,American Samoa,AS,-14.25,-170.68,1988,npsa
+Arches National Park,Utah,UT,38.68,-109.57,1971,arch
+Badlands National Park,South Dakota,SD,43.75,-102.5,1978,badl
+Big Bend National Park,Texas,TX,29.25,-103.25,1944,bibe
+Biscayne National Park,Florida,FL,25.65,-80.08,1980,bisc
+Black Canyon of the Gunnison National Park,Colorado,CO,38.57,-107.72,1999,blca
+Bryce Canyon National Park,Utah,UT,37.57,-112.18,1928,brca
+Canyonlands National Park,Utah,UT,38.20,-109.93,1964,cany
+Capitol Reef National Park,Utah,UT,38.20,-111.17,1971,care
+Carlsbad Caverns National Park,New Mexico,NM,32.17,-104.44,1930,cave
+Channel Islands National Park,California,CA,34.01,-119.42,1980,chis
+Congaree National Park,South Carolina,SC,33.78,-80.78,2003,cong
+Crater Lake National Park,Oregon,OR,42.94,-122.10,1902,crla
+Cuyahoga Valley National Park,Ohio,OH,41.24,-81.55,2000,cuva
+Death Valley National Park,California/Nevada,CA/NV,36.24,-116.82,1994,deva
+Denali National Park,Alaska,AK,63.33,-150.50,1917,dena
+Dry Tortugas National Park,Florida,FL,24.63,-82.87,1992,drto
+Everglades National Park,Florida,FL,25.32,-80.93,1934,ever
+Gates of the Arctic National Park,Alaska,AK,67.78,-153.34,1980,gaar
+Gateway Arch National Park,Missouri,MO,38.6247,-90.1848,2018,jeff
+Glacier National Park,Montana,MT,48.80,-113.78,1910,glac
+Glacier Bay National Park,Alaska,AK,58.53,-137.00,1980,glba
+Grand Canyon National Park,Arizona,AZ,36.11,-112.11,1919,grca
+Grand Teton National Park,Wyoming,WY,43.73,-110.80,1929,grte
+Great Basin National Park,Nevada,NV,38.98,-114.30,1986,grba
+Great Sand Dunes National Park,Colorado,CO,37.79,-105.59,2004,grsa
+Great Smoky Mountains National Park,North Carolina/Tennessee,NC/TN,35.68,-83.53,1934,grsm
+Guadalupe Mountains National Park,Texas,TX,31.92,-104.87,1972,gumo
+Haleakalā National Park,Hawaii,HI,20.72,-156.17,1916,hale
+Hawai'i Volcanoes National Park,Hawaii,HI,19.42,-155.29,1916,havo
+Hot Springs National Park,Arkansas,AR,34.51,-93.05,1921,hosp
+Indiana Dunes National Park,Indiana,IN,41.65,-87.05,2019,indu
+Isle Royale National Park,Michigan,MI,48.17,-88.55,1940,isro
+Joshua Tree National Park,California,CA,33.87,-115.90,1994,jotr
+Katmai National Park,Alaska,AK,58.50,-155.00,1980,katm
+Kenai Fjords National Park,Alaska,AK,59.92,-149.65,1980,kefj
+Kobuk Valley National Park,Alaska,AK,67.55,-159.27,1980,kova
+Lake Clark National Park,Alaska,AK,60.97,-153.42,1980,lacl
+Lassen Volcanic National Park,California,CA,40.49,-121.50,1916,lavo
+Mammoth Cave National Park,Kentucky,KY,37.18,-86.10,1941,maca
+Mesa Verde National Park,Colorado,CO,37.23,-108.46,1906,meve
+Mount Rainier National Park,Washington,WA,46.85,-121.75,1899,mora
+New River Gorge National Park and Preserve,West Virginia,WV,38.07,-81.08,2020,neri
+North Cascades National Park,Washington,WA,48.70,-121.21,1968,noca
+Olympic National Park,Washington,WA,47.97,-123.50,1938,olym
+Petrified Forest National Park,Arizona,AZ,35.07,-109.78,1962,pefo
+Pinnacles National Park,California,CA,36.49,-121.20,2013,pinn
+Redwood National Park,California,CA,41.30,-124.00,1968,redw
+Rocky Mountain National Park,Colorado,CO,40.34,-105.69,1915,romo
+Saguaro National Park,Arizona,AZ,32.25,-110.50,1994,sagu
+Sequoia and Kings Canyon National Park,California,CA,36.43,-118.68,1890,seki
+Shenandoah National Park,Virginia,VA,38.53,-78.35,1935,shen
+Theodore Roosevelt National Park,North Dakota,ND,46.90,-103.45,1978,thro
+Virgin Islands National Park,Virgin Islands,VI,18.34,-64.82,1956,viis
+Voyageurs National Park,Minnesota,MN,48.52,-92.88,1975,voya
+White Sands National Park,New Mexico,NM,32.78,-106.17,2019,whsa
+Wind Cave National Park,South Dakota,SD,43.57,-103.50,1903,wica
+Wrangell-St. Elias National Park,Alaska,AK,61.00,-142.00,1980,wrst
+Yellowstone National Park,Wyoming/Montana/Idaho,WY/MT/ID,44.60,-110.50,1872,yell
+Yosemite National Park,California,CA,37.87,-119.54,1890,yose
+Zion National Park,Utah,UT,37.30,-113.05,1919,zion

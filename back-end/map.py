@@ -25,7 +25,8 @@ Park Item Key:
 (2. State/Territory abbreviation), 
 (3. Latitude), 
 (4. Longitude),
-(5. Year Established)
+(5. Year Established),
+(6. NPS Website index)
 ]
 """
 
