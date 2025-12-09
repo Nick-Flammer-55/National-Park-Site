@@ -35,11 +35,13 @@ def build_map():
     for park in park_list:
         folium.Marker(
             location=[float(park[3]), float(park[4])], 
-            tooltip=park[0]
+            tooltip=park[0],
+            #popup="https://www.nps.gov/" + park[6] + "/index.htm"
+            popup='<b>New York City</b><br>A bustling metropolis.'
         ).add_to(main_map)
 
     # Saves the completed map as an HTML File
-    main_map.save("nps_map.html")
+    main_map.save("..\\nps_map.html")
 
 if __name__ == "__main__":
     build_map()
